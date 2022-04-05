@@ -3,7 +3,7 @@ Here are the instructions
 hiiiii
 =======
 refer website for more changes
-more changes
+more changes to remote file through local
 <<<<<<< HEAD
 >>>>>>> 7331e40c659ff0cd43256bbf14abd2b7963feb54
 =======
