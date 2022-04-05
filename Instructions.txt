@@ -4,4 +4,8 @@ hiiiii
 =======
 refer website for more changes
 more changes
+<<<<<<< HEAD
 >>>>>>> 7331e40c659ff0cd43256bbf14abd2b7963feb54
+=======
+other day changes
+>>>>>>> 2d893f266bad27976af6c61bb8865b4d7ca65670
