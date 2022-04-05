@@ -1,2 +1,7 @@
 Here are the instructions
+<<<<<<< HEAD
 hiiiii
+=======
+refer website for more changes
+more changes
+>>>>>>> 7331e40c659ff0cd43256bbf14abd2b7963feb54
